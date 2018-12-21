@@ -14,5 +14,6 @@ Usia,
 Pensiun (berapa tahun lagi akan pensiun. Usia pensiun = 55 tahun),
 Kota,
 serta memiliki tombol Hapus untuk menghapus data.
+
 Disediakan pula 6 buah tombol untuk mensortir data berdasarkan kolom Nama, Usia & Kota, baik secara Ascending maupun Descending.
 Preview: https://elcesarturo.github.io/Data_Tabel/
