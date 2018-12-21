@@ -9,7 +9,7 @@ Data tabel yang ditampilkan memiliki kolom berikut:
 
 Nama,
 Tanggal Lahir (terdiri atas 3 sub-kolom: tanggal, bulan & tahun),
-Zodiak (referensi Zodiak silakan Googling),
+Zodiak,
 Usia,
 Pensiun (berapa tahun lagi akan pensiun. Usia pensiun = 55 tahun),
 Kota,
